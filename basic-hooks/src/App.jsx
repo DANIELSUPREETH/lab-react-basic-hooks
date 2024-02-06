@@ -30,7 +30,7 @@ function App() {
       setExpanded(false);
     } else {
       setContentMessage(
-        `Unlike other superheroes, Batman possesses no superhuman powers; instead, he relies on his intellect, detective skills, martial arts expertise, and a vast array of technological gadgets to fight crime in the crime-ridden Gotham City. The alter ego of billionaire Bruce Wayne, Batman witnessed his parents' murder as a child, motivating him to dedicate his life to combating crime. The iconic Bat-Signal, a spotlight projecting the Bat symbol into the night sky, serves as a beacon for justice.`
+        `The Ford Mustang is a series of American automobiles manufactured by Ford. In continuous production since 1964, the Mustang is currently the longest-produced Ford car nameplate. Currently in its seventh generation, it is the fifth-best selling Ford car nameplate.`
       );
       setExpanded(true);
     }
